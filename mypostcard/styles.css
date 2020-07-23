@@ -1,0 +1,68 @@
+/* Estilo para mypostcard */
+
+body{
+    width: 520px;
+    height: 370px;
+    border: 14px outset black;
+}
+
+#big{
+    width: 400PX;
+    height: 380px;
+}
+
+img{
+    width: 70px;
+    height: 70px;
+    position: fixed;
+    top: 35px;
+    padding-left: 435px;
+}
+
+h1{
+    padding-left: 10px;
+    font-family: Indie Flower;
+}
+
+p{
+    width: 260px;
+    padding-left: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Indie Flower;
+    line-height: 1.1;
+}
+
+div.second {
+    position: relative;
+    width: 515px;
+    height: 200px;
+}
+
+div.locate {
+    position: absolute;
+    top: 0px;
+    right: 5px;
+    width: 220px;
+    height: 120px;
+}
+
+input{
+    padding: 0px 20px 0 0;        
+    font-family: Indie Flower;
+    font-size: 20px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+#third {
+    padding-left: 180px;
+}
+
+button{
+    font-family: Indie Flower;
+    font-size: 21px;
+    font-weight: bold;
+    background-color: rgb(204, 199, 199);
+}
